@@ -1,0 +1,32 @@
+.body {
+  scroll-behavior: smooth;
+}
+
+.navbar .navbar1 .btn:hover {
+  background-color: blue;
+  color: black;
+}
+
+#section32 .section33main .btn:hover {
+  color: black;
+}
+#section4 .nav-link:hover {
+  color: black;
+  background-color: blue;
+}
+
+.section5sub .card:hover {
+  background: linear-gradient(
+    to bottom,
+    rgba(0, 176, 155, 0.5),
+    rgba(150, 201, 60, 1)
+  );
+  width: 400px;
+  height: 900px;
+}
+.nav-item:hover > .dropdown-menu {
+  display: block;
+}
+.nav-item1:hover > .dropdown-menu {
+  display: block;
+}
